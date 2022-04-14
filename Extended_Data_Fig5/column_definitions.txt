@@ -1,0 +1,58 @@
+MKT-J0901-4046: MeerKAT imaging
+Radio light curve column definitions
+ 0: Scheduling block ID
+ 1: Scan number
+ 2: Epoch (ISO)
+ 3: Epoch (MJD)
+ 4: Peak brightness (mJy/beam)
+ 5: RMS of off-target region (mJy/beam)
+ 6: SNR (peak in target region)
+ 7: SNR (peak in off-target region)
+Sub-band 0:
+ 8: Peak brightness in target region (mJy/beam)
+ 9: Peak brightness in off-target region (mJy/beam)
+10: RMS of off-target region (mJy/beam)
+11: SNR (peak in target region)
+12: SNR (peak in off-target region)
+Sub-band 1:
+13: Peak brightness in target region (mJy/beam)
+14: Peak brightness in off-target region (mJy/beam)
+15: RMS of off-target region (mJy/beam)
+16: SNR (peak in target region)
+17: SNR (peak in off-target region)
+Sub-band 2:
+18: Peak brightness in target region (mJy/beam)
+19: Peak brightness in off-target region (mJy/beam)
+20: RMS of off-target region (mJy/beam)
+21: SNR (peak in target region)
+22: SNR (peak in off-target region)
+Sub-band 3:
+23: Peak brightness in target region (mJy/beam)
+24: Peak brightness in off-target region (mJy/beam)
+25: RMS of off-target region (mJy/beam)
+26: SNR (peak in target region)
+27: SNR (peak in off-target region)
+Sub-band 4:
+28: Peak brightness in target region (mJy/beam)
+29: Peak brightness in off-target region (mJy/beam)
+30: RMS of off-target region (mJy/beam)
+31: SNR (peak in target region)
+32: SNR (peak in off-target region)
+Sub-band 5:
+33: Peak brightness in target region (mJy/beam)
+34: Peak brightness in off-target region (mJy/beam)
+35: RMS of off-target region (mJy/beam)
+36: SNR (peak in target region)
+37: SNR (peak in off-target region)
+Sub-band 6:
+38: Peak brightness in target region (mJy/beam)
+39: Peak brightness in off-target region (mJy/beam)
+40: RMS of off-target region (mJy/beam)
+41: SNR (peak in target region)
+42: SNR (peak in off-target region)
+Sub-band 7:
+43: Peak brightness in target region (mJy/beam)
+44: Peak brightness in off-target region (mJy/beam)
+45: RMS of off-target region (mJy/beam)
+46: SNR (peak in target region)
+47: SNR (peak in off-target region)
